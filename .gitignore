@@ -1,0 +1,7 @@
+# Logs 필요없는 로그들 제외
+Logs
+*.Logs
+npm-debug.log*
+
+# Dependency directories
+node_modules/
